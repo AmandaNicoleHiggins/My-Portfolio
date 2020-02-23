@@ -13,3 +13,11 @@
     background-position: center;
     background-repeat: no-repeat;
   }
+
+  .pborder {
+      border: 1px solid black;
+  }
+
+  .ptext {
+      padding-top: 50px;
+  }
