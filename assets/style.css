@@ -25,3 +25,17 @@
   .giticon {
       color: olive;
   }
+
+  .cgiticon {
+    color: black;
+}
+
+.clink {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: olive;
+    text-decoration: none;
+}
